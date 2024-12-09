@@ -1,8 +1,9 @@
-## Hello there ! 🖖
+<h1 align="center">Hello there ! 🖖</h1>
+
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=FlorianDeParis.FlorianDeParis)
 
-- 💻 Front-end web developper
+### 💻 Front-end web developper
 - ❤️ Code with Visual Studio Code
 - ... and with Monokai Pro in dark mode 🌙
 - 📍 Based in Paris (oh really ?!)
@@ -24,4 +25,3 @@ Currently working on:<br><br>
 <br><br>
 Currently teaching:<br><br>
 <img alt="Angular 18" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/angularjs.svg" height="25">
-
