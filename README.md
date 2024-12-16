@@ -18,9 +18,13 @@ Currently working on:<br><br>
   <img alt="Typescript" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/ProgrammingLanguages/typescript.svg" height="25">
   <img alt="Gulp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/gulp.svg" height="25">
   <img alt="webpack" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/webpack.svg" height="25">
-  <div style="display:flex;align-items:center;gap:5px;"><img alt="php" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/ProgrammingLanguages/php.svg" height="25"><span>(with Phalcon php framework)</span></div>
+  <div style="display:flex;align-items:center;gap:5px;">
+    <img alt="php" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/ProgrammingLanguages/php.svg" height="25">
+    <span>with</span>
+    <img alt="Phalcon PHP" src="https://assets.phalcon.io/phalcon/images/svg/phalcon-logo-35x39.svg" height="25">
+  </div>
   <img alt="MJML" src="https://mjml.io/assets/img/logo-small.png" height="25">
-  <div style="display:flex;align-items:center;gap:5px;">@<a style="text-decoration:none;" href="https://www.nouvelobs.com/">Le Nouvel Obs</a><img src="https://www.nouvelobs.com/icons/nouvelobs/favicon.ico" height="25"></div>
+  <div style="display:flex;align-items:center;gap:5px;"><a style="text-decoration:none;" href="https://www.nouvelobs.com/">@Le Nouvel Obs</a><img src="https://www.nouvelobs.com/icons/nouvelobs/favicon.ico" height="25"></div>
 </div>
 <br><br>
 Currently teaching:<br><br>
