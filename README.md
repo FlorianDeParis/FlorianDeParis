@@ -28,10 +28,12 @@ Currently working on:<br><br>
 </div>
 <br><br>
 Also more or less punctually worked on:<br><br>
-<img alt="Codeigniter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Framework/codeigniter.svg" height="25">
-<img alt="Python" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/ProgrammingLanguages/python.svg" height="25">
-<img alt="Django" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Framework/django.svg" height="25">
-<img alt="React JS" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/reactjs.svg" height="25">
-<img alt="Vue JS" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/vuejs.svg" height="25">
+<div style="display:flex;gap:15px;align-items:top;flex-wrap:wrap;">
+  <img alt="Codeigniter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Framework/codeigniter.svg" height="25">
+  <img alt="Python" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/ProgrammingLanguages/python.svg" height="25">
+  <img alt="Django" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Framework/django.svg" height="25">
+  <img alt="React JS" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/reactjs.svg" height="25">
+  <img alt="Vue JS" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/vuejs.svg" height="25">
+</div>
 Currently teaching:<br><br>
 <img alt="Angular 18" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/angularjs.svg" height="25">
