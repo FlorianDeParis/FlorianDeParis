@@ -36,4 +36,9 @@ Also more or less punctually worked on:<br><br>
   <img alt="Vue JS" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/vuejs.svg" height="25">
 </div>
 Currently teaching:<br><br>
-<img alt="Angular 18" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/angularjs.svg" height="25">
+<div style="display:flex;gap:15px;align-items:top;flex-wrap:wrap;">
+  <img alt="Angular 18" src="https://angular.dev/assets/images/press-kit/angular_wordmark_gradient.png" height="25">
+  <img alt="RxJS" src="https://rxjs.dev/assets/images/logos/logo.png" height="25">
+</div>
+
+
