@@ -13,7 +13,7 @@
 </ul>
 
 <br>
-Currently working with:<br><br>
+<h3>Currently working with:</h3>
 <div>
   <img alt="SASS" title="SASS" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/sass.svg" height="25">&emsp;
   <img alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/html.svg" height="25">&emsp;
@@ -32,18 +32,21 @@ Currently working with:<br><br>
   <img alt="Node JS" title="Node JS" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-line-wordmark.svg" height="25">
 </div>
 <br>
-<div><a href="https://www.nouvelobs.com/">@Le Nouvel Obs</a>&emsp;&emsp;<img src="https://www.nouvelobs.com/icons/nouvelobs/favicon.ico" height="25"></div>
-<br><br>
-Also more or less punctually worked on:<br><br>
+<div>
+  <span><a href="https://www.nouvelobs.com/">@Le Nouvel Obs&emsp;</a></span>
+  <img src="https://www.nouvelobs.com/icons/nouvelobs/favicon.ico" height="25" />
+</div>
+<br>
+<h3>Also more or less punctually worked on:</h3>
 <div>
   <img alt="Codeigniter" title="Codeigniter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Framework/codeigniter.svg" height="25">&emsp;
   <img alt="Python" title="Python" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/ProgrammingLanguages/python.svg" height="25">&emsp;
-  <img alt="Django" title="Django" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Framework/django.svg" height="25">&emsp;
+  <img alt="Django" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg" height="25">&emsp;
   <img alt="ReactJS" title="ReactJS" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/reactjs.svg" height="25">&emsp;
   <img alt="VueJS" title="VueJS" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/vuejs.svg" height="25">
 </div>
-<br><br>
-Currently teaching:<br><br>
+<br>
+<h3>Currently teaching:</h3>
 <div>
   <img alt="Angular" title="Angular" src="https://angular.dev/assets/images/press-kit/angular_wordmark_gradient.png" height="25">&emsp;
   <img alt="RxJS" title="RxJS" src="https://rxjs.dev/assets/images/logos/logo.png" height="25">
