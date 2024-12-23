@@ -33,8 +33,8 @@
 </div>
 <br>
 <div>
-  <span><a href="https://www.nouvelobs.com/">@Le Nouvel Obs&emsp;</a></span>
   <img src="https://www.nouvelobs.com/icons/nouvelobs/favicon.ico" height="25" />
+  <a href="https://www.nouvelobs.com/">@Le Nouvel Obs&emsp;</a>
 </div>
 <br>
 <h3>Also more or less punctually worked on:</h3>
