@@ -6,7 +6,7 @@
 <h2>💻 Front-end web developper</h2>
 <ul>
 <li>❤️ Code with Visual Studio Code</li>
-<li>... and with Monokai Pro in dark mode 🌙</li>
+<li>... and with Monokai Pro and Atom One Dark in dark mode 🌙</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ohmyzsh/ohmyzsh-plain.svg" height="15"> Oh-my-zsh lover</li>
 <li>📍 Based in Paris (oh really ?!)</li>
 <li>🎮 Geek: gamer & game collector</li>
