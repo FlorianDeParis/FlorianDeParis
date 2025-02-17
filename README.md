@@ -46,7 +46,7 @@
   <img alt="VueJS" title="VueJS" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/vuejs.svg" height="25">
 </div>
 <br>
-<h3>Currently teaching:</h3>
+<h3>Currently learning:</h3>
 <div>
   <img alt="Angular" title="Angular" src="https://angular.dev/assets/images/press-kit/angular_wordmark_gradient.png" height="25">&emsp;
   <img alt="RxJS" title="RxJS" src="https://rxjs.dev/assets/images/logos/logo.png" height="25">
